@@ -14,7 +14,7 @@ const Hero = () => {
         </nav>
 
       <h1 className="head_text">
-        Better reading with <br/><span className="text-with-effects">
+        Read better with <br/><span className="text-with-effects">
           Braindle 
         </span>
       </h1>
